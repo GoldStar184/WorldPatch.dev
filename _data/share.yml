@@ -2,9 +2,9 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+#  - type: Twitter
+ #   icon: "fa-brands fa-square-x-twitter"
+  #  link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
@@ -37,9 +37,9 @@ platforms:
   #     - label: photog.social
   #       link: "https://photog.social/"
   #
-  # - type: Bluesky
-  #   icon: "fa-brands fa-bluesky"
-  #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+  - type: Bluesky
+     icon: "fa-brands fa-bluesky"
+     link: "https://bsky.app/intent/compose?text=TITLE%20URL"
   #
   # - type: Reddit
   #   icon: "fa-brands fa-square-reddit"
