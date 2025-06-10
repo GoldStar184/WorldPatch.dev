@@ -2,9 +2,10 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/worldpatch.dev'       
 
 - type: email
   icon: "fas fa-envelope"
